@@ -1,9 +1,6 @@
 {
   "version": "1",
-  "name": "tt",
+  "name": "test-collection",
   "type": "collection",
-  "ignore": [
-    "node_modules",
-    ".git"
-  ]
+  "ignore": ["node_modules", ".git"]
 }
